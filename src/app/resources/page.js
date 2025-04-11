@@ -4,7 +4,7 @@ import ResourceList from '@/components/ResourceList'
 
 
 export const metadata = {
-  title: 'Resources',
+  title: '个人导航',
   description: 'Explore our curated list of resources for web development, GitHub, and more.',
 }
 
