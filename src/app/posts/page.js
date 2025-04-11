@@ -2,7 +2,7 @@ import ArticleList from '@/components/ArticleList'
 import { getSortedPostsData } from '@/lib/posts';
 
 export const metadata = {
-  title: 'Articles',
+  title: '博客',
   description: 'Read our latest articles on web development, GitHub tips, and best practices.',
 };
 
