@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
-    default: 'GitBase',
+    default: 'Tiger的个人网站',
     template: '%s | GitBase'
   },
   description: 'Open source dynamic website without database, built with Next.js and GitHub API',
