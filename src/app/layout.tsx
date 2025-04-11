@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     default: 'Tiger的个人网站',
     template: '%s | GitBase'
   },
-  description: 'Open source dynamic website without database, built with Next.js and GitHub API',
+  description: '开源动态网站，无需数据库，基于 Next.js 和 GitHub API 构建',
 }
 
 interface RootLayoutProps {
